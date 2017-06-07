@@ -19,11 +19,7 @@ AccountingBase (AccBase) - свободный проект по созданию учетной основы (платформ
 
 AccountingBase (AccBase) is a free project to create a account base (platform) under the GPL.
 
-The project is conceived as a platform, basis of accounting, the maximum rid of the nuances and details of accounting and 
-
-tax legislation of any particular country (for example, the author of the project is in the Republic 
-
-Kazakhstan). This created the unique structure of the application database account that has no analogues in other 
+The project is conceived as a platform, basis of accounting, the maximum rid of the nuances and details of accounting and tax legislation of any particular country (for example, the author of the project is in the Republic Kazakhstan). This created the unique structure of the application database account that has no analogues in other 
 
 account programs. Accounting is understood in the broadest sense, financial management, CRM, budget 
 
