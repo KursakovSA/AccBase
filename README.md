@@ -8,7 +8,7 @@ It is assumed that the development of the project can branch out and go in any c
 
 Project scope -
 - AccBase0.accdb - project database in MS Access (tables, links, metadata). The initial data are laid for accounting in the Republic of Kazakhstan.
-- AccBase0SQL.zip - project database in MS SQL 2017 format (tables, links, metadata). Initial data are pledged for accounting in the Republic of Kazakhstan.
+- AccBase0SQL.zip - project database in MS SQL 2017 format (tables, links, metadata). Initial data are pledged for accounting in the Republic of Kazakhstan. The database is made standalone (i.e. easily transferred between different computers and different MS SQL servers), and is filled with ready-made metadata for organizing accounting.
 - AccBaseSpecification_EN_RUS.xlsx - project specification, description of tables and fields. A brief explanation of the logic is given project.
 - UniversalAccounting.zip - previous project of the author (accounting database based on 1C77, has been under development since 2000) (base only)
 - article.zip - a collection of articles by the author, many of which cover the principles of the AccBase project.
