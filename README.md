@@ -6,11 +6,5 @@ It is assumed that AccBase is used primarily for personal purposes by those who 
 
 It is assumed that the development of the project can branch out and go in any country, including the countries of the former Soviet Union. Thanks to the free GPL license, anyone can create products based on AccBase, and use AccBase in the accounting of any person or enterprise.
 
-Project scope -
-- AccBase0.mdf,sql - project database. The initial data are laid for accounting in the Republic of Kazakhstan. Project database based on MS SQL 2017 format (tables, links, metadata). Initial data are pledged for accounting in the Republic of Kazakhstan. The database is made standalone (i.e. easily transferred between different computers and different MS SQL servers), and is filled with ready-made metadata for organizing accounting.
-- AccBaseSpecification_EN_RUS.xlsx - project specification, description of tables and fields. A brief explanation of the logic is given project.
-- UniversalAccounting.zip - previous project of the author (accounting database based on 1C77, has been under development since 2000) (base only)
-- article.zip - a collection of articles by the author, many of which cover the principles of the AccBase project.
-
 Contact email - kursakov.s@mail.ru.
 From SW. project author Kursakov S.A.
