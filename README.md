@@ -7,10 +7,4 @@ Workbook Basic - пайдалану кезінде ешкімді ренжітп
 Workbook Basic - учетная программа, которая никого не выбешивает при ее использовании. И автора своего в том числе. 
 Поддержка - kursakov.s@gmail.com
 
---общие метаданные DatabaseGlobal.sqlite3 
---шаблон учетной базы данных DatabaseTemplate.sqlite3 
---готовая скомпилированная программа Debug.zip 
---Универсал для 1С77 (предшественник данной программы) /UniBase1.zip 
---стартовые метаданные учетной базы и общие метаданные DatabaseTemplateGlobal_tables.xlsx 
---папка проекта Визуал Студио WorkbookBasic.zip 
---прочие статьи автора articles.zip
+общие метаданные DatabaseGlobal.sqlite3,  шаблон учетной базы данных DatabaseTemplate.sqlite3, готовая скомпилированная программа Debug.zip, Универсал для 1С77 (предшественник данной программы) UniBase1.zip, стартовые метаданные учетной базы и общие метаданные DatabaseTemplateGlobal_tables.xlsx, папка проекта Визуал Студио WorkbookBasic.zip, прочие статьи автора articles.zip
