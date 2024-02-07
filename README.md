@@ -1,6 +1,6 @@
 Workbook Basic - an accounting program that does not piss anyone off when using it. And the author of his including. Platform - Java, SQLite, Eclipse. System requirements - openjdk-21 or higher (https://download.java.net/java/GA/jdk21.0.1/415e3f918a1f4062a0074a2794853d0d/12/GPL/openjdk-21.0.1_windows-x64_bin.zip).
 Installation or update - wb.zip.
-support - kursakov.s@gmail.com
+Support - kursakov.s@gmail.com
 
 Workbook Basic - пайдалану кезінде ешкімді ренжітпейтін бухгалтерлік бағдарлама. Және оның авторы. Платформа – Java, SQLite, Eclipse.
 Жүйе талаптары - openjdk-21 немесе одан жоғары (https://download.java.net/java/GA/jdk21.0.1/415e3f918a1f4062a0074a2794853d0d/12/GPL/openjdk-21.0.1_windows-x64_bin.zip).
