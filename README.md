@@ -1,3 +1,4 @@
+https://github.com/KursakovSA/AccBase
 Workbook Basic - an accounting program that does not piss anyone off when using it. And the author of his including. Platform - Java, SQLite, Eclipse. System requirements - C:\openjdk\jdk-21.0.1.
 Installation or update - wb.zip.
 Support - kursakov.s@gmail.com
